@@ -1,5 +1,8 @@
 _repo: The-Poetical-Works-of-William-Wordsworth-Volume-8-of-8_52836
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52836-h/images/cover.jpg
 creator:
   author:
     agent_name: Wordsworth, William
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '3388'
     url: http://www.gutenberg.org/2009/agents/3388
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52836#The-Poetical-Works-of-William-Wordsworth-Volume-8-of-8
 gutenberg_issued: '2016-08-18'
 gutenberg_type: Text
 identifiers:
