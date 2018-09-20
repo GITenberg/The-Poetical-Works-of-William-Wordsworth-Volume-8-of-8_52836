@@ -1,0 +1,32 @@
+_repo: The-Poetical-Works-of-William-Wordsworth-Volume-8-of-8_52836
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wordsworth, William
+    birthdate: 1770
+    deathdate: 1850
+    gutenberg_agent_id: '2879'
+    url: http://www.gutenberg.org/2009/agents/2879
+    wikipedia: http://en.wikipedia.org/wiki/William_Wordsworth
+  editor:
+    agent_name: Knight, William Angus
+    birthdate: 1836
+    deathdate: 1916
+    gutenberg_agent_id: '3388'
+    url: http://www.gutenberg.org/2009/agents/3388
+description: ''
+gutenberg_issued: '2016-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52836'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- 18th century'
+- !lcsh 'English poetry -- 19th century'
+- !lcc 'PR'
+- GITenberg
+title: The Poetical Works of William Wordsworth — Volume 8 (of 8)
+url: http://www.gutenberg.org/ebooks/52836
